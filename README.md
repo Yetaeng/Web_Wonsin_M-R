@@ -1,7 +1,8 @@
 # Web_Wonsin_M-R
 (주)원신엠앤드알의 반응형 영문 사이트 제작
 
-http://www.bearing-heater.com/
+한글 : http://www.bearing-heater.com/
+영문 : http://www.bearing-heater.com/?act=info.page&pcode=en_index
 
 ## 기간
 2020년 07월 06일 ~ 2020년 08월 21일
@@ -13,5 +14,7 @@ http://www.bearing-heater.com/
 
 ---
 
+
 ### 할 말
-이미지 파일이 많기도 하고, 모든 이미지 파일을 여기에 올려도 되는지 몰라서 그냥 html, css 코드만 올림!
+'-' 이미지 파일이 많기도 하고, 모든 이미지 파일을 여기에 올려도 되는지 몰라서 그냥 html, css 코드만 올림!
+'-' 2020.08.29 기준으로 html 코드 내의 a태그 주소가 웹사이트에 맞게 되어있음. 그래서 이 코드로는 페이지 이동이 안됨 (추후 수정 예정)
